@@ -1,0 +1,15 @@
+.taskItem {
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center;
+    width: 410px;
+    margin-bottom: 10px;
+}
+
+
+.taskItem_actions {
+    font-size: 1.7rem !important;
+    margin-right: 5px !important;
+    cursor: pointer;
+}
+

@@ -1,0 +1,17 @@
+.taskInput {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.taskInput__textfield {
+   width: 410px;
+}
+
+.taskInput__btn {
+    display: flex;
+    margin: 10px;
+ 
+}
